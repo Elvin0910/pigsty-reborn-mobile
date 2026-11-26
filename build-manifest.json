@@ -1,0 +1,6 @@
+{
+  "data": "MobileTrial.data.unityweb",
+  "wasm": "MobileTrial.wasm.unityweb",
+  "framework": "MobileTrial.framework.js.unityweb",
+  "loader": "MobileTrial.loader.js"
+}
